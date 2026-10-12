@@ -1,0 +1,6 @@
+# Fichiers propres à macOS
+Thumbs.db
+# Fichier contenant des informations sensibles
+secrets.txt
+# Fichiers de logs
+*.log
