@@ -1,1 +1,1 @@
-mode bordelerie activé
+version pour main

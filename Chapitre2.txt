@@ -1,2 +1,1 @@
-le challenge est lancé
-Dieu est ma force
+le test de main est lancé
